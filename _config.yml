@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:/allen
-url: http://www.vifuture.com
+baseurl:
+url: https://viyozc.github.io
 date_format: "ordinal"
 title: Front Class
 subtitle: ""
