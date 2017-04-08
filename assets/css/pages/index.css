@@ -1,4 +1,7 @@
-.home .banner,
+.home .banner{
+    background: #000;
+    color:#fff;
+}
 .home .site-header {
     background: #000;
     color: #fff
@@ -20,7 +23,8 @@
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .8)
+    color: rgba(255, 255, 255, .8);
+    font-weight:bold;
 }
 
 .home .site-header .site-header-nav-item:hover {
