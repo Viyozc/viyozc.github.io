@@ -1,6 +1,6 @@
 .home .banner,
 .home .site-header {
-    background: #4183c4;
+    background: #000;
     color: #fff
 }
 
@@ -20,7 +20,7 @@
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(255, 255, 255, .8)
 }
 
 .home .site-header .site-header-nav-item:hover {
