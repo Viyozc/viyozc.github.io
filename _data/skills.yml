@@ -1,9 +1,11 @@
 - name: Front-End Engineer Keywords
   keywords:
       - HTML5
-      - CSS3
       - JS
+      - React
+      - webpack
       - Design Patterns
+      - ...
 
 #- name: Mobile Developer Keywords
 #  keywords:
